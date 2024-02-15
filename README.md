@@ -1,2 +1,1 @@
-This is a basic LSTM. 
-
+A simple LSTM based network for classification. 
